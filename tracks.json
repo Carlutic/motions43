@@ -206,7 +206,8 @@
   {
     "name": "GirlGoneWild_Motion_V3 - GirlGoneWild_Face",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/2_western_songs_girlgonewild_motion_v3/girlgonewild_motion_/main_2.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/2_western_songs_girlgonewild_motion_v3/girlgonewild_motion_/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/1db11e1fceed16f1.mp3"
   },
   {
     "name": "I am the man (1+2)",
@@ -568,7 +569,8 @@
     "name": "Death",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_death/death/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_death/death/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_death/death/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/0c68cb71fc53aa1f.mp3"
   },
   {
     "name": "Motions - (Model_3)_Person_who_interrupts_the_fight(Motion_3)",
@@ -586,13 +588,15 @@
     "name": "打排球和翻跟头 by 京桥刹那 - 球",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_by/_by_/main_4.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/092239bb1e0294ed.mp3"
   },
   {
     "name": "玛丽罗斯经典动作VMD by 京桥刹那 - PowerBlow 攻",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_vmd_by/_vmd_by_powerblow_/main_2.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/f41eec2008dcf1bd.mp3"
   },
   {
     "name": "龙拳配布",
@@ -771,7 +775,8 @@
     "name": "一小段卖萌动作VMD by 京桥刹那",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/7_daily_moves_vmd_by/_vmd_by_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions43/collection/7_daily_moves_vmd_by/_vmd_by_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions43/collection/7_daily_moves_vmd_by/_vmd_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/eef2748714e978af.mp3"
   },
   {
     "name": "女の子の撮影モーション(3サイズ紹介編) (3+3)",
@@ -1295,12 +1300,14 @@
   {
     "name": "BigGirlNow-Motion",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_biggirlnow_motio/biggirlnow_motion/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_biggirlnow_motio/biggirlnow_motion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/82597f6b09011944.mp3"
   },
   {
     "name": "byba maniacs - マニアックスリップ付きミクアペンド",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_byba_maniacs/byba_maniacs_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_byba_maniacs/byba_maniacs_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/470fae838412a8a1.mp3"
   },
   {
     "name": "Cafe Latte - Cafe Latte Finish",
@@ -1415,24 +1422,28 @@
     "name": "完全固定版11名用 (3+4)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap_11/_11_3_4_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap_11/_11_3_4_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap_11/_11_3_4_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "交差型版 (3+4) (2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap/_3_4_/main_2.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner_2.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "通常版 (3+4) (2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap/_3_4_/main_4.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner_4.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "HeadphoneActor-Motion",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_headphoneactor_m/headphoneactor_motio/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_headphoneactor_m/headphoneactor_motio/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/4ecd8190f4a85c09.mp3"
   },
   {
     "name": "help me - 真",
@@ -1581,7 +1592,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_relations/relations_1_2_/main.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_relations/relations_1_2_/partner.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_relations/relations_1_2_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_relations/relations_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/23e0ee54aa618a0c.mp3"
   },
   {
     "name": "RinxLen-2014 - Len",
@@ -1697,7 +1709,8 @@
     "name": "Turn Off The Light モーション  24269288 - リップ",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/main_2.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/c6451fccb695ff87.mp3"
   },
   {
     "name": "WhereHaveYouBeenロングモーション - WhereHaveYouBeenロング(みりんさま式石田三成さんでトレース)",
@@ -1752,12 +1765,14 @@
   {
     "name": "ありふれたせかいせいふく - ありふれミク上半身2_1226",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_2_1226/main_2.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_2_1226/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/a6d11f33e239dba7.mp3"
   },
   {
     "name": "こころのたまご - kokoro_no_tamagoA",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_kokoro_no_tamagoa/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_kokoro_no_tamagoa/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/ab2cf07c490d3ab1.mp3"
   },
   {
     "name": "とんとんまーえ - フルセット(右)",
@@ -1813,7 +1828,8 @@
   {
     "name": "スノートリック - rin",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_rin/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_rin/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/5d9ff5cd82b69943.mp3"
   },
   {
     "name": "チャンバラジョニー - ブルガリア(黒色の服)",
@@ -1833,7 +1849,8 @@
   {
     "name": "トリノコシティ - トリノコシティA",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_a/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018/_a/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/77ca691f34abff0c.mp3"
   },
   {
     "name": "ハロー、プラネット。",
@@ -1874,7 +1891,8 @@
     "name": "4人用 - GUMI",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_4/4_gumi/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/e2a49dc83d59fa4a.mp3"
   },
   {
     "name": "ミュージックミュージック 表情配布 (15)",
